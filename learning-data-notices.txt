@@ -1,6 +1,6 @@
 LEARNING DATA ATTRIBUTION
 
-Derived subset: English headwords selected from LexiCore 1.0.0, X-Trivle (2026), CC BY 4.0, https://github.com/X-Trivle/LexiCore. Modified: Thai sense mapping, filters, ID fields. LexiCore POS labels are not used because sample checks found errors. CEFR bands are dataset suggestions, not certification.
+Derived subset: English headwords selected from LexiCore 1.0.0, X-Trivle (2026), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), https://github.com/X-Trivle/LexiCore. Modified: Thai sense mapping, filters, ID fields. LexiCore POS labels are not used because sample checks found errors. CEFR bands are dataset suggestions, not certification.
 
 Thai meanings: Thai WordNet, Copyright 2011 NICT, via Open Multilingual Wordnet https://github.com/omwn/omw-data/tree/main/wns/tha. English definitions/examples: Princeton WordNet 3.0. Meanings are linked by synset, not machine-translated. A card shows one selected sense; word forms are not word families.
 
@@ -74,3 +74,5 @@ pertaining to distribution of the software and/or database. Title to
 copyright in this software, database and any associated documentation
 shall at all times remain with Princeton University and LICENSEE
 agrees to preserve same.
+
+Foundation Thai meanings and example sentences: original practice content authored with the existing ChatGPT-authenticated Codex CLI, with manual function-word overrides. Dictionary expansions retain their separate licenses above.
